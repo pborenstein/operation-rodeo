@@ -1,17 +1,17 @@
 {
-    "name": "tzintli",
+    "name": "operation rodeo",
     "version": "1.0.0",
-    "description": "a base, foundation, starting point for playing with 11ty",
+    "description": "rounding up all the things",
     "siteData": {
-        "title": "tzintli.com",
-        "description": "a base, foundation, starting point for playing with 11ty",
-        "url": "https://tzintli.com/"
+        "title": "operation rodeo",
+        "description": "rounding up all the things",
+        "url": "https://operation.rodeo/"
     },
-    "repository": "https://github.com/tepiton/tzintli.git",
+    "repository": "https://github.com/pborenstein/operation-rodeo.git",
     "author": {
         "name": "Philip Borenstein",
         "email": "pborenstein@gmail.com",
-        "url": "https://pborenstein.com",
+        "url": "https://operation.rodeo",
         "twitter": "pborenstein",
         "github": "pborenstein",
         "mastodon": "pborenstein",
