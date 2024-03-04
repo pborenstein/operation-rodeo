@@ -241,7 +241,7 @@
   --font-serif:               Georgia, serif;
   --font-sans-serif:          'Helvetica Neue', Helvetica, sans-serif;
   --font-mono:                Monaco, monospace;
-  --font-logo:                Georgia, 'Helvetica Neue', sans-serif;
+  --font-logo:                stud, sans-serif;
   --font-body:                var(--font-serif);
   --font-heading:             var(--font-sans-serif);
 
@@ -585,8 +585,8 @@ h4 {
 
 h2, h3 {
      margin-block-start: 1em !important;
-} 
- 
+}
+
 
 
 h2 + p,
@@ -675,7 +675,7 @@ details > summary::-webkit-details-marker {
 
 figure  { margin: 0; }
 img     { max-width: 100%;
-          height: auto; 
+          height: auto;
           margin-top: 0 !important;}
 iframe  { max-width: 100%;}
 
@@ -840,7 +840,7 @@ table thead {
   border-bottom: 1px solid var(--color-border);
 }
 
-td, th { 
+td, th {
   vertical-align: top;
   padding: 0.25em 0.375em ;
 }
@@ -848,7 +848,7 @@ td, th {
 tr {
 }
 
-table tbody tr { 
+table tbody tr {
   background-color: var(--color-table-background);
 }
 
@@ -894,4 +894,3 @@ table tbody tr:nth-child(even) {
       height: 0;
     }
   }
-  
