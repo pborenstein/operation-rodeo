@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evernote/elements/cult/","title":"good natured cult"}
+{"dg-publish":true,"dg-path":"posts/Cult.md","permalink":"/posts/cult/","title":"good natured cult"}
 ---
 
 We're a good natured cult.
