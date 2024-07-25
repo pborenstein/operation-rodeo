@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/evernote/elements/bed-and-breakfast/","title":"bed"}
+{"dg-publish":true,"dg-permalink":"posts/bed","permalink":"/posts/bed/","title":"bed"}
 ---
 
 
